@@ -12,7 +12,18 @@ p {
     font-size: 20px;
 }
 
+h2 {
+    color: black;
+    text-align: center;
+}
 img {
     font-family: Verdana;
     font-size: 100px;
+}
+time {
+    text-align: center;
+
+}
+img {
+    margin-left: 180px;
 }
