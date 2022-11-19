@@ -16,11 +16,11 @@ h2 {
     color: black;
     text-align: center;
 }
-img {
-    width: 800px;
-    height: auto;
-    margin-left: 25%;
-    margin-right: 25%;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 time {
     font-size: 20px;
